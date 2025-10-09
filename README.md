@@ -19,10 +19,8 @@
 ## 📂 Featured Projects
 - 🔢 [Simple Calculator](https://github.com/bharat-codie/Simple-calculator-)  
 - 🔑 [Login Page](https://github.com/bharat-codie/Simple-login-page-project)
-- 🌐. [E-commerce website].
-  (https://github.com/bharat-codie/Easy-e-commerce-website-)
--  App (Coming Soon)  
-- 🌐 Portfolio Website (Coming Soon)  
+
+- 🌐 Portfolio Website (bharat-codie.github.io/My-portfolio-/)  
 
 ---
 
