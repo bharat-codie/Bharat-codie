@@ -23,7 +23,7 @@
 - 🔑 [Login Page](https://github.com/bharat-codie/Simple-login-page-project)  
   *A simple responsive login page designed with clean UI.*
 
-- 🍽️ [Restaurant Blog Website](https://github.com/bharat-codie/Restaurant-website-)  
+- 🍽️ [Restaurant Blog Website](https://github.com/bharat-codie/Restuarant-website-)  
   *A modern restaurant website with menu, contact form, and embedded map.*  
   🔗 **Live Demo:** [Visit Here](https://bharat-codie.github.io/Restaurant-website-/)
 
