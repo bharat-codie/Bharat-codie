@@ -25,7 +25,7 @@
 
 - 🍽️ [Restaurant Blog Website](https://github.com/bharat-codie/Restuarant-website-)  
   *A modern restaurant website with menu, contact form, and embedded map.*  
-  🔗 **Live Demo:** [Visit Here](https://bharat-codie.github.io/Restaurant-website-/)
+  🔗 **Live Demo:** [Visit Here](bharat-codie.github.io/Restuarant-website-/)
 
 - 🌐 [Portfolio Website](https://github.com/bharat-codie/My-portfolio-)  
   *My personal developer portfolio showcasing projects and skills.*  
